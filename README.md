@@ -1,5 +1,5 @@
 # OSINTtheory
-Teoria Osint part. 1 - Definizioni 
+Teoria Osint - Definizioni 
 
 ![osint2](https://user-images.githubusercontent.com/98583912/187065480-b6589b30-d72a-409e-b3ec-1a19b745eef3.jpg)
 
