@@ -1,4 +1,8 @@
 # OSINTtheory
+
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
+
 Teoria Osint - Definizioni 
 
 ![osint2](https://user-images.githubusercontent.com/98583912/187065480-b6589b30-d72a-409e-b3ec-1a19b745eef3.jpg)
